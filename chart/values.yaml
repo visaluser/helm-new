@@ -2,7 +2,7 @@ replicaCount: 0
 
 image:
   repository: kubecontainer12.azurecr.io/visalusernodejsrepo
-  tag: 111
+  tag: 114
   pullPolicy: Always
 
 service:
